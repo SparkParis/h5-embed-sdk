@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir":"./dist/",
+        "module": "es6",
+        "target":"es5",
+        "removeComments": true,
+        "sourceMap":true, //热更新
+        "declaration":true,
+        "moduleResolution":"Node",
+        "noImplicitAny":true,
+        "allowJs":true,//是否允许编译js
+    },
+    "exclude": ["node_modules","dist"],
+    "include": ["src/*"]
+}
