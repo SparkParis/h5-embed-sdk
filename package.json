@@ -1,6 +1,6 @@
 {
   "name": "@jd/bq_h5_sdk_ts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "小程序，app内嵌h5 sdk",
   "main": "./dist/index.js",
   "types": "dist/index.d.ts",
