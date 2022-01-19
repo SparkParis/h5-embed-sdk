@@ -1,7 +1,7 @@
 <!--
  * @Author: fengtingting
  * @Date: 2022-01-14 13:54:10
- * @LastEditTime: 2022-01-18 17:07:02
+ * @LastEditTime: 2022-01-19 09:23:46
  * @LastEditors: fengtingting
 -->
 ## 小程序和app内嵌H5 sdk
@@ -27,6 +27,7 @@ root
 ## 打包发布
 * 打包: `npm run build`
 * 登录: `jnpm: npm login `
+* 版本升级:`npm run version`
 * 发布: `npm run release`
 
 ## 本地调试

@@ -9,6 +9,8 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "version":"npm version patch",
+    "version:pre":"npm version prerelease",
     "build": "tsc -p tsconfig.json",
     "release": "tsc && npm publish"
   },
